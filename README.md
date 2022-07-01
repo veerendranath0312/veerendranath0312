@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m Veerendranath
+- 🔭 I’m currently working on Node.js
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on web development projects
 
 <!--
 **veerendranath0312/veerendranath0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
