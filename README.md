@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Veerendranath
-- 🔭 I’m currently working on Node.js
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on React, Node.js, Serverless applications using AWS Lambda
 - 💞️ I’m looking to collaborate on web development projects
 
 <!--
